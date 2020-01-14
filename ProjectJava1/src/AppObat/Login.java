@@ -257,4 +257,8 @@ public class Login extends javax.swing.JFrame {
     public void setPassLog(String passLog) {
         this.passLog = passLog;
     }
+	public void(){
+		this.passe = passim;
+	}
 }
+
